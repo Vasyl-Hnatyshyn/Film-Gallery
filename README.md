@@ -1,2 +1,2 @@
 # Film-Gallery
-practice  task on React.js
+Part of website with movie /React.JS
